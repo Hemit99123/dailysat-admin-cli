@@ -1,2 +1,1 @@
-# dailysat-admin-cli
-# dailysat-admin-cli
+# DailySAT Admin CLI
